@@ -4,7 +4,9 @@
 }
 
 .a{
-    display: inline-block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .cabecalho{
@@ -17,7 +19,7 @@
 }
 
 .cabecalho-Imagem{
- width: 50%;
+ width: 40%;
  font-size: 200%;
 }
 
@@ -26,3 +28,13 @@
     margin: 0 10px;
     padding: 20px 0;
 }
+
+.sobre-imagem{
+width:18%;
+}
+
+.sobre{
+    background-color:  rgb(198, 211, 92);
+    display: flex;
+}
+    
