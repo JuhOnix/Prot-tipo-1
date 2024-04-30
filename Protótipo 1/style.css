@@ -19,7 +19,7 @@
 }
 
 .cabecalho-Imagem{
- width: 40%;
+ width: 50%;
  font-size: 200%;
 }
 
@@ -36,5 +36,15 @@ width:18%;
 .sobre{
     background-color:  rgb(198, 211, 92);
     display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 190px 0;
 }
-    
+
+.sobre-conteudo{
+    width: 50%;
+}
+
+.sobre-titulo{
+    padding: 40px 0;
+}
