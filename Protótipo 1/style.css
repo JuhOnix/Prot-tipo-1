@@ -19,7 +19,7 @@
 }
 
 .cabecalho-Imagem{
- width: 50%;
+ width: 35%;
  font-size: 200%;
 }
 
@@ -47,4 +47,16 @@ width:18%;
 
 .sobre-titulo{
     padding: 40px 0;
+}
+
+.membros-titulo{
+    font-size: 200%;
+}
+
+.membro-imagem{
+    width: 12%;
+}
+
+.membro-icone{
+    width: 3%;
 }
