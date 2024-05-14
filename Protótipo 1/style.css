@@ -26,7 +26,7 @@
 .cabecalhoListaItem{
     display: inline-block;
     margin: 0 10px;
-    padding: 20px 0;
+    padding: 10px 0;
 }
 
 .sobre-imagem{
@@ -38,7 +38,7 @@ width:18%;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 190px 0;
+    padding: 200px 0;
 }
 
 .sobre-conteudo{
@@ -51,6 +51,8 @@ width:18%;
 
 .membros-titulo{
     font-size: 200%;
+    text-align: center;
+    padding: 30px 0;
 }
 
 .membro-imagem{
@@ -59,4 +61,8 @@ width:18%;
 
 .membro-icone{
     width: 3%;
+}
+
+.membro-div{
+    text-align: center;
 }
