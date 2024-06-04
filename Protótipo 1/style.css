@@ -56,11 +56,11 @@ width:18%;
 }
 
 .membro-imagem{
-    width: 160px;
+    width: 200px;
 }
 
 .membro-icone{
-    width: 10%;
+    width: 40px;
 }
 
 .membro-div{
@@ -69,5 +69,14 @@ width:18%;
 
 .membros-todos{
     display:grid;
-    grid-template-columns: 30% 30% 40%;
+    grid-template-columns: 5% 30% 30% 30% 5%;
+    margin: 100px 0;
+}
+
+footer{
+    background-color: black;
+    padding: 20px 0;
+    color:white;
+    text-align: center;
+    font-size: 30px;
 }
